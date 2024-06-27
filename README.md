@@ -37,7 +37,7 @@
 
 ## MNIST
 
-
+![alt text](artifacts/kaggless.png.png)
 1. **Using a 2 layer MLP with hidden layer dimensions (10, 10)**
     - Test Data Set Performance
       - Epoch 100, Accuracy: 93.3%
